@@ -15,7 +15,7 @@ To run the project -
 * Download amazon.csv - A dataset on Amazon rainforest fire. Taken from https://www.kaggle.com/gustavomodelli/forest-fires-in-brazil
 * Put amazon.csv to the data folder
 * Run get_brazilian_states.ipynb to get states.csv - Info in Brazilian states, taken from Wikipedia. Make sure the csv is in the data folder
-* Run analysis.ibynb
+* Run analysis.ipynb
 
 
 To view the ipynb, go to https://nbviewer.jupyter.org/github/WaterZoopPlein/amazon_forest_fire/tree/main/
